@@ -1,0 +1,116 @@
+---
+object: card
+id: eeafd676-d99d-4f80-b426-5ef60dbf423d
+oracle_id: 3055381a-fb6b-47a3-8e77-a44768808e27
+multiverse_ids: []
+tcgplayer_id: 79212
+cardmarket_id: 266066
+name: Eater of Hope
+lang: en
+released_at: '2014-02-01'
+uri: https://api.scryfall.com/cards/eeafd676-d99d-4f80-b426-5ef60dbf423d
+scryfall_uri: https://scryfall.com/card/pbng/66%E2%98%85/eater-of-hope?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/e/eeafd676-d99d-4f80-b426-5ef60dbf423d.jpg?1605370681
+  normal: https://cards.scryfall.io/normal/front/e/e/eeafd676-d99d-4f80-b426-5ef60dbf423d.jpg?1605370681
+  large: https://cards.scryfall.io/large/front/e/e/eeafd676-d99d-4f80-b426-5ef60dbf423d.jpg?1605370681
+  png: https://cards.scryfall.io/png/front/e/e/eeafd676-d99d-4f80-b426-5ef60dbf423d.png?1605370681
+  art_crop: https://cards.scryfall.io/art_crop/front/e/e/eeafd676-d99d-4f80-b426-5ef60dbf423d.jpg?1605370681
+  border_crop: https://cards.scryfall.io/border_crop/front/e/e/eeafd676-d99d-4f80-b426-5ef60dbf423d.jpg?1605370681
+mana_cost: "{5}{B}{B}"
+cmc: 7.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying
+  {B}, Sacrifice another creature: Regenerate Eater of Hope.
+  {2}{B}, Sacrifice two other creatures: Destroy target creature.
+power: '6'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 6733ed2b-f650-4db7-8d7d-d1fba3f60928
+set: pbng
+set_name: Born of the Gods Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/6733ed2b-f650-4db7-8d7d-d1fba3f60928
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apbng&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pbng?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/eeafd676-d99d-4f80-b426-5ef60dbf423d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3055381a-fb6b-47a3-8e77-a44768808e27&unique=prints
+collector_number: 66★
+digital: false
+rarity: rare
+watermark: set
+flavor_text: Gods can be appeased. Demons, however . . .
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mathias Kollros
+artist_ids:
+- 2ae0dd12-047c-4efb-80d7-bccc3bac5fba
+illustration_id: 841f8514-ece7-46e2-878a-6f35a1e450bc
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 9835
+penny_rank: 13399
+prices:
+  usd: 
+  usd_foil: '0.20'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eater+of+Hope&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eater+of+Hope&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Eater+of+Hope
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79212?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eater+of+Hope&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eater+of+Hope&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,116 @@
+---
+object: card
+id: db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd
+oracle_id: 53de1e6f-9471-4cdc-ac67-66d47da4d7eb
+multiverse_ids: []
+tcgplayer_id: 79215
+cardmarket_id: 266065
+name: Forgestoker Dragon
+lang: en
+released_at: '2014-02-01'
+uri: https://api.scryfall.com/cards/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd
+scryfall_uri: https://scryfall.com/card/pbng/98%E2%98%85/forgestoker-dragon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/b/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd.jpg?1605370734
+  normal: https://cards.scryfall.io/normal/front/d/b/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd.jpg?1605370734
+  large: https://cards.scryfall.io/large/front/d/b/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd.jpg?1605370734
+  png: https://cards.scryfall.io/png/front/d/b/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd.png?1605370734
+  art_crop: https://cards.scryfall.io/art_crop/front/d/b/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd.jpg?1605370734
+  border_crop: https://cards.scryfall.io/border_crop/front/d/b/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd.jpg?1605370734
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Creature — Dragon
+oracle_text: |-
+  Flying
+  {1}{R}: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate only if Forgestoker Dragon is attacking.
+power: '5'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 6733ed2b-f650-4db7-8d7d-d1fba3f60928
+set: pbng
+set_name: Born of the Gods Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/6733ed2b-f650-4db7-8d7d-d1fba3f60928
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apbng&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pbng?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/db79ab19-0ab2-4ed9-b39a-eeaf22aabdbd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53de1e6f-9471-4cdc-ac67-66d47da4d7eb&unique=prints
+collector_number: 98★
+digital: false
+rarity: rare
+watermark: set
+flavor_text: The Akroans fashion their helms to honor the dragons, not to protect
+  against them, as that would be of little help.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lucas Graciano
+artist_ids:
+- ce98f39c-7cdd-47e6-a520-6c50443bb4c2
+illustration_id: 68bf0780-c6d0-41d4-97d2-97e00bdfee59
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 14770
+penny_rank: 14892
+prices:
+  usd: 
+  usd_foil: '0.34'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.45'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Forgestoker+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Forgestoker+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Forgestoker+Dragon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/79215?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forgestoker+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forgestoker+Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

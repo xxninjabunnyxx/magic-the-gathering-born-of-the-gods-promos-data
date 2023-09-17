@@ -1,0 +1,18 @@
+---
+object: set
+id: 6733ed2b-f650-4db7-8d7d-d1fba3f60928
+code: pbng
+name: Born of the Gods Promos
+uri: https://api.scryfall.com/sets/6733ed2b-f650-4db7-8d7d-d1fba3f60928
+scryfall_uri: https://scryfall.com/sets/pbng
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbng&unique=prints
+released_at: '2014-02-01'
+set_type: promo
+card_count: 9
+parent_set_code: bng
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/bng.svg?1694404800
